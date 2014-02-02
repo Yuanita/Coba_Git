@@ -1,1 +1,3 @@
 file baru untuk github
+
+kenapa untuk dokumen .doc tidak dapat dilihat perubahannya ?
